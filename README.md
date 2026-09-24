@@ -1,17 +1,25 @@
+
 # Наш DevOps проект
 
 ## Описание проекта
+
 Здесь общее описание...
 
 ## Команда
-Здесь список участников...
+
+Shaiakhmetov Amir (Herisson) - Frontend Developer
 Быстрова Александра
 
 ## Стек технологий
-Здесь технологии...
-Docker, Kubernetes, Larpnux
+
+JavaScript/TypeScript, React (Amir Shaiakhmetov)
+Docker, Kubernetes, Larpnux (Быстрова Александра)
 
 ## Инструкции по запуску
-Здесь шаги для запуска...
-- Посолите 
--поперчите
+
+1. `git clone https://github.com/HerissonMoelleux/team-docs-larpster`
+2. Read `README.md`
+3. Start working
+4. посослите
+5. поперчите
+
