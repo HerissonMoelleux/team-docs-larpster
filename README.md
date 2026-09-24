@@ -14,6 +14,7 @@ Shaiakhmetov Amir (Herisson) - Frontend Developer
 
 JavaScript/TypeScript, React (Amir Shaiakhmetov)
 Docker, Kubernetes, Larpnux (Быстрова Александра)
+AWS, FastApi, Ansible (Rakhmatullaev Timur)
 
 ## Инструкции по запуску
 
