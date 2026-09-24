@@ -1,13 +1,19 @@
 # Наш DevOps проект
 
 ## Описание проекта
+
 Здесь общее описание...
 
 ## Команда
-Здесь список участников...
+
+Shaiakhmetov Amir (Herisson) - Frontend Developer
 
 ## Стек технологий
-Здесь технологии...
+
+JavaScript/TypeScript, React (Amir Shaiakhmetov)
 
 ## Инструкции по запуску
-Здесь шаги для запуска...
+
+1. `git clone https://github.com/HerissonMoelleux/team-docs-larpster`
+2. Read `README.md`
+3. Start working
